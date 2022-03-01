@@ -1,0 +1,23 @@
+.calculator {
+  background-color: #545252;
+  color: white;
+  padding: 20px;
+}
+.output {
+  height: 200px;
+  background-color: green;
+}
+.row {
+  display: flex;
+}
+.keys {
+  width: 30%;
+  text-align: center;
+  background-color: white;
+  margin: 10px;
+  font-size: 20px;
+  color: black;
+}
+.keys:hover {
+  background-color: rgb(42, 142, 235);
+}
