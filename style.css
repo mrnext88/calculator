@@ -3,7 +3,7 @@
   color: white;
   padding: 20px;
 }
-.output {
+#output {
   height: 200px;
   background-color: green;
 }
